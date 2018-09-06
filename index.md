@@ -7,7 +7,7 @@
 - Informative
 - Helpful
 - Accessible
-- 
+- ...?
 
 
 ## Welcome to GitHub Pages
