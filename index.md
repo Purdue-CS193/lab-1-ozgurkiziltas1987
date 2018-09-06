@@ -1,6 +1,6 @@
 
 
-# Ozgur Kiziltas' first CS193 Lab
+# Ozgur Kiziltas first CS193 Lab
 
 ## Things I like about CS193
 
